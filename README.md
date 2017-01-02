@@ -1,2 +1,0 @@
-# kaquavivak
-github pages test 
